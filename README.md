@@ -1,4 +1,4 @@
-# Siege Skin Checker ![Stars](https://img.shields.io/github/stars/realTristan/SiegeSkinChecker?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/SiegeSkinChecker?label=Watchers)
+# Siege Skin Checker ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/Siege_Skin_Checker?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/Siege_Skin_Checker?label=Watchers)
 ![r6mobile-1](https://user-images.githubusercontent.com/75189508/186451989-aedbfd18-becb-45ed-ad57-7d472d7f7d1c.jpeg)
 
 # About
