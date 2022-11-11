@@ -1,0 +1,1440 @@
+{
+    "items": [
+      {
+        "id": "f619eb19-de6e-4dcd-96eb-08b45f80fe64",
+        "name": "Glacier",
+        "category": "Seasonals"
+      },
+      {
+        "id": "914abe05-a408-46e2-9e91-0f2dbdecc17d",
+        "name": "Loyalty",
+        "category": "Seasonals"
+      },
+      {
+        "id": "2faae975-8f4b-43ac-b8e7-87a0631097f3",
+        "name": "Red Silk",
+        "category": "Seasonals"
+      },
+      {
+        "id": "142c6a37-8d41-4cd5-bb31-1cb882697f92",
+        "name": "Onami",
+        "category": "Seasonals"
+      },
+      {
+        "id": "9f0ffbab-ab76-4c4f-bcfa-c3d302397213",
+        "name": "Invitational 2019",
+        "category": "Seasonals"
+      },
+      {
+        "id": "c83e8f07-eade-4fe4-a2d5-635b240e49d8",
+        "name": "Gold GO4 Charm",
+        "category": "Charms"
+      },
+      {
+        "id": "f158349e-83b6-4d69-8fd7-900ded9e0125",
+        "name": "Secret Star",
+        "category": "Seasonals"
+      },
+      {
+        "id": "01facb4b-49f9-4e66-96a8-cac5072d12e5",
+        "name": "Year of the Rat",
+        "category": "Seasonals"
+      },
+      {
+        "id": "a1a0f8e3-39c1-4a03-baf8-aa91476e02db",
+        "name": "El Dorado",
+        "category": "Seasonals"
+      },
+      {
+        "id": "f5d7ed4e-d60d-485b-9d05-c960cd338b2e",
+        "name": "SASG12 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "bfdc6a10-5c86-4d65-a391-20cfe76b554b",
+        "name": "416C Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "e91b207c-283f-47ae-b213-17f7b8f2c6cf",
+        "name": "AUG Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "b6b245cb-d64a-4510-a6b9-947d545097be",
+        "name": "R4C Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "b51c76a7-c659-4b0a-a038-7e185e8991e2",
+        "name": "F2 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "5cda2392-6d7f-4926-b28b-7b7012678be4",
+        "name": "AR33 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "5180a8fa-2463-45bd-b93b-84c0672f116e",
+        "name": "L85A2 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "1a6e1e70-2000-4075-9f99-1fe8dee5d549",
+        "name": "SIG556 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "12528299-d766-4678-8267-bd72c41bcc4f",
+        "name": "MP7 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "05a5de08-b286-4756-b574-f85e7a1ba578",
+        "name": "AK12 Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "74448702-c075-47c7-898d-aa8089866430",
+        "name": "R4C Watchdogs",
+        "category": "Specialty"
+      },
+      {
+        "id": "f3dc6e47-336c-4e16-b2b5-510320a20c9b",
+        "name": "2017 Player Charm",
+        "category": "Charms"
+      },
+      {
+        "id": "9e3dafed-4a42-4d66-8dfc-5449a1305f1a",
+        "name": "Obsidian",
+        "category": "Seasonals"
+      },
+      {
+        "id": "fe45a0a9-a39e-4096-be8f-4a2db0a66ed5",
+        "name": "SPQR",
+        "category": "Seasonals"
+      },
+      {
+        "id": "027f8be1-396e-4234-817b-d035b634f588",
+        "name": "Tiger Claw",
+        "category": "Seasonals"
+      },
+      {
+        "id": "5e6dd103-7050-4c69-b8e3-730beb0f5b1b",
+        "name": "Waffle Cone",
+        "category": "Seasonals"
+      },
+      {
+        "id": "610ba4c7-1948-4178-bcfc-ae6b3a27f704",
+        "name": "Gingerbread",
+        "category": "Seasonals"
+      },
+      {
+        "id": "60d90702-495f-46e1-88ec-ed6e8c612fa5",
+        "name": "White Dragon",
+        "category": "Seasonals"
+      },
+      {
+        "id": "f0cb6866-6bd1-4287-b2df-70f1dd3ac5ec",
+        "name": "Ectoplasm",
+        "category": "Seasonals"
+      },
+      {
+        "id": "b27b7e9a-fd9a-481a-acec-09d232dcb4f1",
+        "name": "Christmas 2016",
+        "category": "Seasonals"
+      },
+      {
+        "id": "3eb10d4f-9c4b-4a92-ac73-7f140b2d52cc",
+        "name": "Beta Skin",
+        "category": "Seasonals"
+      },
+      {
+        "id": "9a228303-05e1-4348-8dd9-3a688fefe946",
+        "name": "Sleigh Ride",
+        "category": "Seasonals"
+      },
+      {
+        "id": "e65ec3d2-9315-47c6-ba40-45e4eb5ab2c7",
+        "name": "Spitfire",
+        "category": "Seasonals"
+      },
+      {
+        "id": "0120f0db-0005-4f22-814d-07c7895cb200",
+        "name": "Jumper",
+        "category": "Seasonals"
+      },
+      {
+        "id": "3eb56170-a2df-41e9-8c5f-fb48b20434f4",
+        "name": "Rudolf",
+        "category": "Seasonals"
+      },
+      {
+        "id": "ef00478c-7153-4a17-8a41-43b9d2443104",
+        "name": "CCCP Skin",
+        "category": "Seasonals"
+      },
+      {
+        "id": "e6770233-3901-426e-b3b3-904bc62c3e6d",
+        "name": "Piranha",
+        "category": "Seasonals"
+      },
+      {
+        "id": "0a5d407d-2415-4d51-84c1-3a49914ba673",
+        "name": "Dynasty",
+        "category": "Seasonals"
+      },
+      {
+        "id": "21701de2-45fe-45d8-a52a-606d5ca13e04",
+        "name": "Ash IDF Sapper",
+        "category": "Specialty"
+      },
+      {
+        "id": "fb03940c-15ef-48ce-8631-84e71de5e27f",
+        "name": "3 Day Booster",
+        "category": "Boosters"
+      },
+      {
+        "id": "c3b8efbc-7534-44a3-b57d-e2a8fd8424fb",
+        "name": "1 Day Booster",
+        "category": "Boosters"
+      },
+      {
+        "id": "bb0bb4ca-fa18-4600-b5d0-2ec8c15abc20",
+        "name": "7 Day Booster",
+        "category": "Boosters"
+      },
+      {
+        "id": "542e4687-6587-4466-b50b-20010e32f7fd",
+        "name": "Amazonia",
+        "category": "Seasonals"
+      },
+      {
+        "id": "46c5cb0c-d095-4a10-82f8-c380dedd9aa4",
+        "name": "Chupinazo",
+        "category": "Seasonals"
+      },
+      {
+        "id": "2db2c53c-3eef-47aa-b847-b237d3f63f35",
+        "name": "SkullRain A",
+        "category": "Seasonals"
+      },
+      {
+        "id": "b3171d15-d8f9-4d6d-ae42-968f95606032",
+        "name": "Six Invitational Attendee 2019",
+        "category": "Charms"
+      },
+      {
+        "id": "e6dfa52c-91f1-4599-b90e-6ece97c4c108",
+        "name": "Six Invitational Player 2018",
+        "category": "Charms"
+      },
+      {
+        "id": "b3ffe45f-9311-40d5-8bcd-99d41fa59baf",
+        "name": "Six Invitational Player 2019",
+        "category": "Charms"
+      },
+      {
+        "id": "615257b7-9aea-479f-8521-a0054af3a442",
+        "name": "Pina Colada",
+        "category": "Specialty"
+      },
+      {
+        "id": "86b14d5e-0d9f-46c9-8419-f2e9254d1d6c",
+        "name": "Aki No Tsuru",
+        "category": "Seasonals"
+      },
+      {
+        "id": "b263b79a-8012-43ce-9d60-080c8de56697",
+        "name": "Winter Knitting",
+        "category": "Seasonals"
+      },
+      {
+        "id": "238a2c9e-386d-4b6d-85ba-8e822f4217b3",
+        "name": "Husaria",
+        "category": "Seasonals"
+      },
+      {
+        "id": "e8bedcc2-bb95-40d7-8b1f-e2ecf9f2995e",
+        "name": "Crossfader",
+        "category": "Seasonals"
+      },
+      {
+        "id": "ab66d358-c927-4b66-8f91-d648b4337277",
+        "name": "Skull Rain",
+        "category": "Seasonals"
+      },
+      {
+        "id": "158af8d6-ebac-4f2d-92b9-f1cdf544f53e",
+        "name": "Invitational 2020",
+        "category": "Seasonals"
+      },
+      {
+        "id": "192c0238-65ef-4efe-a71d-1d77c4640d42",
+        "name": "Majesty",
+        "category": "Seasonals"
+      },
+      {
+        "id": "31de6f82-217e-4898-aa3d-2545f5c93e66",
+        "name": "Leon Furioso",
+        "category": "Seasonals"
+      },
+      {
+        "id": "225a4f9d-4e8b-449b-b47c-c2489fb7ac10",
+        "name": "Ryuko",
+        "category": "Seasonals"
+      },
+      {
+        "id": "453138ed-c307-420a-9a9f-ff91c7ad67e2",
+        "name": "Damascus Steel",
+        "category": "Seasonals"
+      },
+      {
+        "id": "7eeec6b9-ffe8-4d83-8e32-f9c004440437",
+        "name": "All Ember Rise",
+        "category": "Specialty"
+      },
+      {
+        "id": "92baa4e4-b407-45b1-b55a-fd7728ecd521",
+        "name": "Year of the Pig",
+        "category": "Seasonals"
+      },
+      {
+        "id": "fccfa6a5-aee2-4bea-b32f-1bd56f194846",
+        "name": "Signature Six 2021",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "7636a2cf-b53e-45d5-90e5-441c42442d90",
+        "name": "Universal Purple",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "a39b2b21-3872-40f8-9d2b-b5cb959fcac2",
+        "name": "MP5K Gold Dust",
+        "category": "Gold Dusts"
+      },
+      {
+        "id": "980245d7-0097-477f-8ce4-d603cb8d0625",
+        "name": "Plasma Pink",
+        "category": "Seasonals"
+      },
+      {
+        "id": "2a2ce374-f8c7-4fec-a1c8-ad3b2508e53b",
+        "name": "Azurite",
+        "category": "Seasonals"
+      },
+      {
+        "id": "fe1d3df-6d87-491b-88c4-c46386d6ec6a",
+        "name": "St Valentine",
+        "category": "Seasonals"
+      },
+      {
+        "id": "1aadccf4-41fa-4bbb-831a-d77207de4719",
+        "name": "Outbreak",
+        "category": "Seasonals"
+      },
+      {
+        "id": "e43428d2-847d-4d52-a96d-166c52cc79c3",
+        "name": "Surgical Stitch",
+        "category": "Seasonals"
+      },
+      {
+        "id": "bc8f9c93-2bd2-40a2-ba73-bc20a40fa12a",
+        "name": "Developer Skin",
+        "category": "Seasonals"
+      },
+      {
+        "id": "2ac2c72f-0f3a-470c-bf67-fbb4bba28638",
+        "name": "Developer Charm",
+        "category": "Charms"
+      },
+      {
+        "id": "9ef8d38b-02df-4fac-9318-5d0ade62b0ef",
+        "name": "SIG556 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "b2a66b7d-896e-447e-bef2-fe549edacf5b",
+        "name": "G8A1 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "a156a2b7-b40e-4ea6-bc69-a842733e1096",
+        "name": "PKP Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "d2fc1d2e-9a90-4492-b0e4-99e22ca9fc9e",
+        "name": "MAC11 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "25ee2f20-f42a-496a-bae6-9a2293a9774c",
+        "name": "5.7 USG Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "dd24ec9c-44d6-499a-9d01-61ccd11de239",
+        "name": "9MM Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "c1d831bf-cfc1-4202-bc3c-b2259e13b5f2",
+        "name": "586 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "369b25f4-c913-4ee5-a034-bcf5292f0bae",
+        "name": "DEAGLE Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "c92fa8eb-6e64-4e61-b999-fee1ae784857",
+        "name": "FN9P Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "7d5980a3-d835-461b-935e-7ec32fb2f4f3",
+        "name": "GSH18 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "6f230818-820c-462a-88f2-44327ad8ff72",
+        "name": "M45 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "d2113f31-6d4e-4725-b712-a3bdec0cd862",
+        "name": "PMM Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "5a01133c-04a0-4ece-bbcd-25d48ba4743d",
+        "name": "P226 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "7bd6d981-0aff-44a8-9dc8-eef5510233a4",
+        "name": "USP-9 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "2e3a8863-31ec-4cf9-a1bd-14f5a9d9e2bd",
+        "name": "591A1 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "fc0d6de5-a919-47c6-a421-2bd581425f92",
+        "name": "M3 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "e5ed4af5-5b12-41d9-8a23-9a6de41c9969",
+        "name": "M1014 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "371cb126-7362-41e8-be4e-8f233b407ca9",
+        "name": "M870 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "b018a678-ae69-4e80-9cfd-8a596b148ed2",
+        "name": "SAIGA12 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "9d055dca-95a8-41aa-8fce-8dc06d0f1b49",
+        "name": "COMPACT Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "a71611d6-913a-4122-8e86-98702ec2e7c0",
+        "name": "SPAS12 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "2a124d17-a792-4b55-9ff0-7e588ad4fa01",
+        "name": "FMG9 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "4a40da83-4121-44e6-969d-7ec7f37bda7d",
+        "name": "MP5K Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "a99ed276-cbf2-41ee-9feb-3358b5ef6860",
+        "name": "MP5 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "6bc83799-c079-4ae9-a327-3b56b5c6a342",
+        "name": "MP7 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "6e27c163-06d4-4315-a3a5-5374bcb56521",
+        "name": "P90 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "479a0419-15d0-4b71-83fe-2a8cc196835a",
+        "name": "MPX Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "fae2fd7d-ee4a-4c89-9905-246b5ef5cbc9",
+        "name": "STERLING Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "2595a5ec-99fb-4feb-8443-222ee5a10d1d",
+        "name": "UMP45 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "069e8fd6-17ba-4249-ab36-ea23bb739f97",
+        "name": "VITAYZ Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "beee8734-300e-47df-b5b3-1a95f77cfd56",
+        "name": "DRAGUNOV Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "bda8e630-9ea8-4922-b617-134663044702",
+        "name": "MK11 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "bb3bfe47-9daa-44a3-bbee-a84cc2c31ab1",
+        "name": "AK12 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "cec6f5b9-1341-47b7-96c1-70d0a8ee598b",
+        "name": "AUG Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "cf832f2c-b778-4c45-9667-aeec69d8bf86",
+        "name": "C1A1 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "569ce395-6395-480a-807c-d196f30c94ee",
+        "name": "C8SFW Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "7b036169-b273-4cff-b67f-e81ce7dbebd1",
+        "name": "FAMAS Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "acfdeb97-dedf-4e02-9fbd-014a3340c2f8",
+        "name": "G36C Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "869dc46d-1027-4855-91d1-e74d79694ad0",
+        "name": "HK33 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "35db24a4-18a5-48cf-bdd3-1f0a1a383156",
+        "name": "416C Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "68a308ba-20f4-4952-adc5-2419e8b38819",
+        "name": "417 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "1cd4d0cd-f4fe-4685-a40e-a24486c56ed6",
+        "name": "L85A2 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "1cb2060a-6cc3-429b-8013-316c1ca4ec77",
+        "name": "R4C Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "ff5dbad5-6c49-43ad-9bdc-5f6089fc8235",
+        "name": "SCAR Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "cfeff27e-d0bb-4369-be9e-25fcc9eee906",
+        "name": "SIG552 Dust Line",
+        "category": "Dust Line"
+      },
+      {
+        "id": "625701fd-7e6f-41b8-8e18-38e5fc326629",
+        "name": "SUPER90 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "8b9b75a2-4ed6-49aa-a403-a1f4122c75c6",
+        "name": "416C Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "7fd42a9b-3bfe-43f4-9e82-f8abd6fd4e36",
+        "name": "417 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "c271c181-b46e-4ab0-90c2-b09fc00e0977",
+        "name": "5.7 USG Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "19849bf6-d6a5-4c56-a7ec-2b5003e12a62",
+        "name": "552 COMMANDO Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "eede4fcf-6f38-417c-abc2-4a5a522d936b",
+        "name": "556XI Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "158f4eb0-96a7-47bb-b146-c51a146d3f25",
+        "name": "GP41 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "f39ffaa6-be50-4d6d-952c-2623c42089b8",
+        "name": "9MM Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "a3654efc-7bbb-4778-9d50-260bad68c3e9",
+        "name": "9x19VSN Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "5ed412ad-6ba5-47f2-ad0a-5e4099bcd7a6",
+        "name": "AK-12 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "36028673-3c08-4bea-9dd6-25629318ddaa",
+        "name": "AR33 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "3f3cf092-f8a3-4dea-acef-58a1062b8b40",
+        "name": "AUG Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "452d6796-8176-4af1-858b-7d87dabad8a5",
+        "name": "C8SFW Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "2abe7e1e-047a-460d-b603-df8ed74cf5d6",
+        "name": "CAMRS Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "e3c5f6cf-b6c9-4df0-b14a-a0f8fd72fad0",
+        "name": "FAMAS Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "54718e5c-4c22-4206-82f0-24cca08b1253",
+        "name": "FMG9 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "4927c501-dd9e-47f7-8717-e42bb497b4f7",
+        "name": "G36C Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "b7b0cf8e-dbf7-4b3c-88f5-c578cb463bc7",
+        "name": "G8A1 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "5c598145-3f86-468e-96e2-f966efc822a1",
+        "name": "GSH-18 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "0375e969-5f50-440f-8e40-1d138a17b0ab",
+        "name": "L85A2 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "4a0e9c4c-79fa-451c-8659-f94f75e69ec3",
+        "name": "LFP856 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "6c272512-f2c3-4984-b7f3-fcaf8b9c8315",
+        "name": "M1014 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "25de44ab-fe66-4541-b1c0-18da02bb09f7",
+        "name": "M45-MUESOC Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "f4d787a6-a17d-40a5-9a05-22c924066e81",
+        "name": "M59051 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "7ec73c26-72b7-4ea1-bdd5-7eb70b2fdb4f",
+        "name": "M870 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "f52192fa-4a90-4158-bf14-2b04f8702412",
+        "name": "MP5 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "057bfe7c-9147-4072-b852-87a2c45d1cbd",
+        "name": "MP5K Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "ea43dc95-8762-4f5f-a0d0-9dbd9777ae08",
+        "name": "MP7 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "a7839600-8acf-4cdb-af59-c0ba100abff0",
+        "name": "MK1_9MM Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "ce0ddae0-8026-45a1-9a05-b3e1d3db7324",
+        "name": "OTS-03 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "dd71f7c9-8973-4cdb-87b7-9d30d5a7ca41",
+        "name": "P12 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "f3fde1b4-329c-4dc7-9e22-987cc6c77b04",
+        "name": "P226 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "3188072d-cbf1-44c1-bb19-cd6b2b74fcda",
+        "name": "P9 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "2ad3ac8f-e0b2-418b-b61e-a9f4cb359f90",
+        "name": "P90 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "53f565aa-bd5a-40cc-967d-d637ae257164",
+        "name": "PMM Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "aee4bdf2-0b54-4c6d-af93-9fe4848e1f76",
+        "name": "R4C Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "228aab82-295f-44c8-b46a-9c5ecdecc1bd",
+        "name": "SASG-12 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "ebeeb589-8ce1-44f3-ad0f-01fc12616b48",
+        "name": "SG-CQB Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "b1cdb343-8ca2-4f7e-b489-af66bfe914cd",
+        "name": "UMP45 Black Ice",
+        "category": "Black Ice"
+      },
+      {
+        "id": "acd35071-196e-ff1d-382d-75a3e99faf18",
+        "name": "First Class Burglary",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "dd7305df-8638-4bed-ba31-b87164981ec4",
+        "name": "Silver GO4 Charm",
+        "category": "Charms"
+      },
+      {
+        "id": "f11cb11c-f697-9e85-894a-76ec506ac9c1",
+        "name": "Wisdom and Hospitality",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "dd809639-63c6-afc7-28a5-8c0e08a92fc3",
+        "name": "Sentient Growth",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "52908579-6503-ed1c-5fe0-b6723c72f1e1",
+        "name": "Blue (Search and Rescue)",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "4f7133e6-5023-dfde-a207-e4151d81f416",
+        "name": "Pickle Rick [SMG-11]",
+        "category": "Attachment Skins"
+      },
+      {
+        "id": "9b711174-526b-8b60-4a97-516b51b6ef53",
+        "name": "Full North Star",
+        "category": "Specialty"
+      },
+      {
+        "id": "01f4eede-f200-4845-a307-5c6d15ecae43",
+        "name": "Jager 2019 VIP Invitational Skin",
+        "category": "Specialty"
+      },
+      {
+        "id": "7d6dd7e1-9bab-4b39-9b64-9d343b792f8b",
+        "name": "Ash 2018 VIP Invitational Skin",
+        "category": "Specialty"
+      },
+      {
+        "id": "feef3293-8e70-4c7e-96af-d1166213c5de",
+        "name": "FMG-9 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "fc22e451-03c6-47ab-961a-22001db2c347",
+        "name": "MPX Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "f5cd3b28-45fa-4637-9ca6-f0a4ba235791",
+        "name": "MP7 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "d7793486-d064-4461-b3c7-a1c0f0272ff2",
+        "name": "PMM Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "d55cb424-b7b4-49fc-90f7-36e919378adf",
+        "name": "OTS-03 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "cb26c8cb-a927-444f-ad22-28418a2b964e",
+        "name": "C8SFW Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "c4b59a73-eb4c-45f8-b3fd-66fb5b790798",
+        "name": "MK17 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "c0565cb3-a7c6-4ea1-a213-086f6eacd9e8",
+        "name": "9x19VSN Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "bcfd736b-4eac-47be-8c4d-997230ea06d2",
+        "name": "MP5 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "b9483482-7819-4db8-8795-81f4e260c00a",
+        "name": "LFP586 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "ac66efa4-966d-400e-9c92-c58a0846012a",
+        "name": "M1014 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "aa40efa8-85ce-4ef8-8a6d-03067d408709",
+        "name": "552 Commando Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "9fd5043a-9049-456c-9352-6bca86b6806a",
+        "name": "MP5K Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "9f709ed1-b17c-4f46-9f3b-d35c039203ef",
+        "name": "SMG11 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "9c16e847-02c6-44bc-82ee-64e48279c665",
+        "name": "P12 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "99443b84-65fb-49ea-b09d-d0fb87bcb052",
+        "name": "G8A1 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "95dac640-ebc0-4065-b58b-0db6a3f3133b",
+        "name": "P226 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "9120b3e4-cfc7-439f-bf85-466db023ad50",
+        "name": "AK-12 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "8ba9c2e3-47c8-461e-9128-b609a40b98be",
+        "name": "FAMAS Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "8987ace1-a465-45fe-a30d-83998a30a4a7",
+        "name": "CAMRS Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "88953d98-aebc-411a-bcc6-e4940bb6f307",
+        "name": "416C Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "88953d98-aebc-411a-bcc6-e4940bb6f307",
+        "name": "M45 Muesoc Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "6e559d11-6552-464f-8106-2a3c99a5b08f",
+        "name": "SR25 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "6c6b763c-db7d-4309-82e1-104fd07082f0",
+        "name": "5.7 USG Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "6b7afa53-a7ed-4967-a30a-479eda9aa75f",
+        "name": "417 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "696585f3-38d4-476f-87d7-edf5f6075748",
+        "name": "SASG-12 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "62b8b450-0602-4ea9-8757-d6653bb328c8",
+        "name": "GSH-18 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "5d785ca3-efd7-43d0-a461-d940eeb9126b",
+        "name": "L85A2 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "56273330-2bd9-4ce8-bf56-8096091c7caa",
+        "name": "UMP45 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "55317608-228e-493d-bce5-42e7ad0478db",
+        "name": "DEAGLE Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "51533e82-e093-41a2-9316-6bedc3219fb4",
+        "name": "SPAS12 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "4ebad083-728a-4a3f-b179-d6cac08ffc6d",
+        "name": "SG-CQB Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "43ae81e7-4fcc-4965-82c0-288e9d936c04",
+        "name": "M870 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "40eced05-1c20-48e4-836f-e27e0c83e97a",
+        "name": "P9 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "38aee6af-9c5c-409e-b7ff-a3f94b478962",
+        "name": "6P41 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "371c15ff-3c08-42cc-9f2a-1601db4b0928",
+        "name": "G36C Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "371c15ff-3c08-42cc-9f2a-1601db4b0928",
+        "name": "R4C Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "2e4f1b3e-153a-4748-b735-3a5392b69e44",
+        "name": "9MM Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "2dd043db-572c-4186-b234-831212e222eb",
+        "name": "MK1_9MM Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "2a95e9da-c082-4953-a36d-8f2b521c9faa",
+        "name": "556XI Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "288b5162-8626-4045-aca5-2493214cea1b",
+        "name": "AUG Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "229400c1-9e35-458c-9967-7287fea06793",
+        "name": "SUPER90 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "1b63de42-78b1-4945-b94f-b012ad84ff54",
+        "name": "M590A1 Racer",
+        "category": "Racer"
+      },
+      {
+        "id": "d55760df-bc7b-444c-bb5b-aa9eb87f8bf6",
+        "name": "Pulse Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "c2ad3cad-4f98-4e57-814a-cb9da9903a34",
+        "name": "Blitz Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "1e471284-cb22-4c37-b2bc-37bd3c3f40be",
+        "name": "Frost Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "17937fed-f834-4729-bce4-d17636b437e7",
+        "name": "Montagne Rojigualda - Y2S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "f6e6273f-24a4-4162-8529-f371baf70d51",
+        "name": "Smoke Pro League - Y2S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "45196581-f48b-47f1-ae12-73b2c1c10816",
+        "name": "Hibana Pro League - Y2S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "36248396-bd08-4adc-b658-b4719a24f858",
+        "name": "Glaz Pro League - Y2S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "b0feec3a-634b-4a7f-a29a-c2c3cb7a1a3b",
+        "name": "Valkyrie Pro League - Y2S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "6923d56c-be2d-459c-ae61-d37472d16268",
+        "name": "Doc Pro League - Y2S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "d505e9b6-1ecb-492f-80c1-b0a6f1f533ea",
+        "name": "Mira Pro League - Y2S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "1c94538d-9311-4c6b-98bf-cd0a20483558",
+        "name": "Buck Pro League - Y2S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "bac9e491-e09d-48a2-ad00-cef5e9668b00",
+        "name": "Castle Pro League - Y2S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "a84867c5-7923-4058-bdc4-3677047d8715",
+        "name": "BlackBeard Pro League - Y3S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "894f3887-00d5-40da-b6be-aed94a6b8347",
+        "name": "Caviera Pro League - Y3S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "1ce6b3b0-76af-4e37-939f-2660fff3f217",
+        "name": "Ela Pro League - Y3S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "244ba212-52e5-4c90-9353-0e601d73f2d4",
+        "name": "Jackal Pro League - Y3S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "28b6d2b9-a89b-4d3c-9862-42dcbb1e0096",
+        "name": "Kapkan Pro League - Y3S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "4da36252-6951-45c1-acd4-4788bd24c912",
+        "name": "Echo Pro League - Y2S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "ea8c690f-1aa6-42b6-be9f-6ad5ada0a119",
+        "name": "Capitao Pro League - Y3S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "767c7915-61a3-46d0-97a7-e612303cecc2",
+        "name": "Lesion Pro League - Y3S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "16dcb929-0e41-4e21-becd-d08594b2c0d4",
+        "name": "Vigil Pro League - Y3S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "9b07a014-f6e2-4992-82d5-1792665cb175",
+        "name": "Zofia Pro League - Y3S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "4205b334-a863-4325-b121-72773a16a467",
+        "name": "Dokkaebi Pro League  - Y3S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "9db8ba38-68ab-49c2-8f2f-4e79e497240f",
+        "name": "Ying Pro League - Y3S3",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "e3ec559a-f5d4-4aaf-941d-abb8e5b2f8a5",
+        "name": "Alibi Pro League - Y3S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "ea895465-0c5b-4f88-98a2-af877f58b637",
+        "name": "Maestro Pro League - Y3S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "ac2d66db-5cef-443e-8b8c-58c39edf3b53",
+        "name": "Lion Pro League - Y3S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "d127fbc8-a572-4ed1-8e19-61597753bf89",
+        "name": "Finka Pro League - Y3S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "d127fbc8-a572-4ed1-8e19-61597753bf89",
+        "name": "Finka Pro League - Y3S4",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "f3056b8f-1793-4da6-bc10-21d213bd7fbe",
+        "name": "Kaid Pro League - Y4S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "0056e8a6-e0d4-4a85-8a4a-537b4798ae76",
+        "name": "Clash Pro League - Y4S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "2c1d1fdd-acb4-4d76-b8ad-70569f9332df",
+        "name": "Maverick Pro League - Y4S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "db29cfe6-fb3c-4697-adb1-9e002744fdbb",
+        "name": "Nomad Pro League - Y4S1",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "5bbade8d-7207-41ad-8dad-0d2d7246cbd6",
+        "name": "Gridlock Pro League - Y4S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "eeedf33f-715c-42a5-8105-0105b26c7c4c",
+        "name": "Mozzie Pro League - Y4S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "db255a5d-be05-4945-9979-ec058beb77de",
+        "name": "Ash Pro League - Y4S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "2823e8a3-290b-4c82-b743-da3cefb4df0e",
+        "name": "Rook Pro League - Y4S2",
+        "category": "Pro Leagues"
+      },
+      {
+        "id": "fdb2e768-0188-4cde-b2e1-0a57845e0ec7",
+        "name": "Ash Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "f5be45b8-6ed6-ce50-deae-134ae3c00628",
+        "name": "Mozzie Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "f000a988-31a7-4de9-bda0-a831b2f278a7",
+        "name": "Bandit Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "df5309f6-9fdd-4462-b3e2-b7905c1d11c2",
+        "name": "Valkyrie Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "de5e7eec-82be-4e72-a89f-524489d6819a",
+        "name": "Echo Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "dc81a3d8-62b9-4e19-9156-602d8c66d0fa",
+        "name": "Thermite Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "ce5ab23a-e637-4fd0-bd6a-989491fb23fd",
+        "name": "Ela Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "cdacdd59-b363-4a30-95e4-2a8f98bd0818",
+        "name": "Jackal Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "c6bf543f-7c76-418b-b0c0-e733d971eae2",
+        "name": "Zofia Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "c3214c47-619b-424a-8eb2-67ddedb4bf14",
+        "name": "Fuze Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "b8e221ae-d264-4eca-bc23-e85431d20ae9",
+        "name": "Smoke Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "ae5fd5de-6e19-44d4-8967-5eb7d9905873",
+        "name": "Kapkan Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "a73558bb-12e1-4535-98ff-fec6ba48bc9c",
+        "name": "Mira Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "9413fdef-c562-4501-8e49-ca9a58f9e8f1",
+        "name": "Kali Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "92bf2759-70ea-4415-b65c-d2145e4644c5",
+        "name": "Tachanka Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "875fe069-b3f1-42b8-a121-fca574acc063",
+        "name": "Capitao Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "801c58d7-39fe-4fe7-9613-85f0c60f0dba",
+        "name": "Rook Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "7edb71ad-5a78-4348-bc01-8eb1b763f69e",
+        "name": "Dokkaebi Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "7edb71ad-5a78-4348-bc01-8eb1b763f69e",
+        "name": "Glaz Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "7a2c53bc-fa0d-4fab-9378-2903383ee7d5",
+        "name": "Jager Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "74c917e8-97c0-4480-8264-336d5f6e6f93",
+        "name": "Sledge Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "6f1e6654-c1a1-45c1-a81e-16dac0008b08",
+        "name": "Doc Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "6e6422ec-cf39-407a-8090-16383759078e",
+        "name": "IQ Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "6a85a3c5-797e-4ef8-b8d9-ba99fe7bace0",
+        "name": "Lesion Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "64aafaa9-44bd-4935-5515-7efc97aa35c0",
+        "name": "Lion Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "5fc46f3e-0c97-4029-8cac-b36055c50903",
+        "name": "BlackBeard Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "484c1c24-26e2-4512-bea1-f2d24b2a6004",
+        "name": "Buck Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "46cf8cea-eab8-4694-93e0-a0252a57d58c",
+        "name": "Mute Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "4333d8a4-d167-423c-a3cf-a07abc0e3f44",
+        "name": "Twitch Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "3dece6b6-a465-4972-88b1-d59a2c9760b7",
+        "name": "Hibana Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "382e68e4-b6e6-44dd-8b8a-bf4329204726",
+        "name": "Maverick Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "2f2ad9a1-d1e3-4abc-8ee6-26aae27baaa3",
+        "name": "Blitz Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "2f22e5a4-4a6a-4566-a2f6-68acf2dab036",
+        "name": "Zofia New Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "28b8b2d7-f9cc-45de-8c63-2c953e5adba8",
+        "name": "Pulse Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "15a088bc-11e9-4b88-b483-219bbf6642ff",
+        "name": "Caveira Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "1312f6d3-a7bd-496c-b1a4-f93d1962e8d0",
+        "name": "Thatcher Elite",
+        "category": "Elites"
+      },
+      {
+        "id": "03c36614-63ee-4a15-8a6a-29c9de988db8",
+        "name": "Ash Elite (Tombraider)",
+        "category": "Elites"
+      },
+      {
+        "id": "67412034-1f07-4cd3-9ab8-915f6845b1c6",
+        "name": "Year of the Ox",
+        "category": "Seasonals"
+      },
+      {
+        "id": "ef00478c-7153-4a17-8a41-43b9d2443104",
+        "name": "Retro Steel",
+        "category": "Seasonals"
+      },
+      {
+        "id": "75680b46-4339-4cbc-8622-3caea2254480",
+        "name": "All New Operator Icons",
+        "category": "Charms"
+      },
+      {
+        "id": "0bb84898-3633-4858-98b6-2de41d63bca6",
+        "name": "Fake Paris Major (EU Major)",
+        "category": "Charms"
+      },
+      {
+        "id": "9e24c142-e9ff-4ca9-ae49-af5027985344",
+        "name": "2018 Paris Major Attendee",
+        "category": "Charms"
+      },
+      {
+              "id": "f11cb11c-f697-9e85-894a-76ec506ac9c1",
+              "name": "Gold (Wisdom and Hospitality)",
+              "category": "Attachment Skins"
+      },
+           {
+        "id": "39822032-44e8-4bea-8974-9aecada83ff1",
+        "name": "2019 Raleigh Major Attendee",
+        "category": "Charms"
+      }
+    ]
+  }
+  
